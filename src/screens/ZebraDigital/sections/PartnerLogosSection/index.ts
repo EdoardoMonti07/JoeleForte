@@ -1,0 +1,1 @@
+export { PartnerLogosSection } from "./PartnerLogosSection";

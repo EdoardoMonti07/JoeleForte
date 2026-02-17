@@ -1,0 +1,1 @@
+export { ContactAndLegalSection } from "./ContactAndLegalSection";
